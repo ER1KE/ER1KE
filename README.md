@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ER1KE
 - 👀 I’m interested in joining IT
-- 🌱 I’m currently learning python, SQL, ACCES
+- 🌱 I’m currently learning python, SQL, ACCES, c++, C
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me ER1C#9223 add me on discord
